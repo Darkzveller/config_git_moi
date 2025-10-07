@@ -1,6 +1,6 @@
 git config --global user.name "Darkzveller"
 
-git config --global user.email "elkattoufi.youssef@gmail.com"
+git config --global user.email "jsp@gmail.com"
 
 git config --list                                                  // Affiche le name et l'email enregistré
 
