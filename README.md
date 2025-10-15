@@ -13,3 +13,5 @@ git config --global credential.helper store                       // Stocker ton
 git config --global credential.helper libsecret                   // Dans le trousseau GNOME (Ubuntu / Debian)
 
 cat ~/.git-credentials                                            // Pour connaitre le contenu du token qui doit etre de la forme https://nom_utilisateur:ton_token@github.com le dossier n'existe pas pear défaut, donc il faut le créer sois meme au début en faisant  nano ~/.git-credentials  
+
+config --global init.defaultBranch main                          // Permettre la création par défaut d'une branch main et non master
