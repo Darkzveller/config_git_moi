@@ -1,3 +1,5 @@
+git --version                                                      // Connaitre la version actuellement installé sur l'ordinateur
+
 git config --global user.name "Darkzveller"
 
 git config --global user.email "jsp@gmail.com"
